@@ -4,6 +4,7 @@
     "age": "FiloSottile/age",
     "argocd": "argoproj/argo-cd",
     "bottom": "clementtsang/bottom",
+    "croc": "schollz/croc",
     "devbox": "jetify-com/devbox",
     "dive": "wagoodman/dive",
     "duckdb": "duckdb/duckdb",
